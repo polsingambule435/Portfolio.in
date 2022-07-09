@@ -97,14 +97,24 @@ function web6() {
   window.open("https://polsingambule.github.io/tatasky/");
 }
 function web7() {
-  window.open("https://polsingambule.github.io/Netflix/");
+  window.open("https://polsingambule.github.io/nextportfolio/");
 }
 function web8() {
   window.open("https://polsingambule.github.io/ProFile/");
 }
+function web9() {
+  window.open("https://polsingambule.github.io/Facebook/");
+}
+function web10() {
+  window.open("https://polsingambule.github.io/Restraunt/");
+}
+
 function whats_messg() {
   window.open("https://wa.me/918379010643?text=Hellow");
 }
+
+
+
 
 function facebook_page() {
   window.open("https://www.facebook.com/pappu.ambule.71");

@@ -538,7 +538,7 @@ section .title::after {
 /* ------------------------------ Projects ------------------------------ */
 
 .projects .title::after {
-  content: "What I did ?";
+  content: "This is My GitHub Project Which I Made Myself";
 }
 
 .projects .carousel .card {
