@@ -108,6 +108,9 @@ function web9() {
 function web10() {
   window.open("https://polsingambule.github.io/Restraunt/");
 }
+function web11() {
+  window.open("https://polsingambule.github.io/-Perfect-Learn/");
+}
 
 function whats_messg() {
   window.open("https://wa.me/918379010643?text=Hellow");

@@ -530,7 +530,7 @@ section .title::after {
 }
 
 .skills-content .right .django::before {
-  width: 0%;
+  width: 50%;
 }
 
 /* --x--------------------------- Skills ---------------------------x-- */
